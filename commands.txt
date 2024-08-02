@@ -1,0 +1,20 @@
+travelled
+show
+move 1668
+show
+turnleft 1668
+turnleft 1668
+move 1668
+show
+move 1668
+show
+within 21
+move 1673
+move 1673
+move 1673
+move 1671
+move 1671
+move 1669
+move 1669
+travelled
+show
