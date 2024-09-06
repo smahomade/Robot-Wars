@@ -16,7 +16,7 @@ bool countDistanceWithin(const robot &r){
 
 int main() {
     ifstream start("start.txt"); // start file [Robot: Number,Team, Xpos, Ypos]
-    ifstream commands("commands2.txt");  // command file   [Commands: show, move Number(r), turnleft Number(r)]
+    ifstream commands("commands.txt");  // command file   [Commands: show, move Number(r), turnleft Number(r)]
 
     /* VECTOR CLASS */
     vector<robot> warGround;    // empty vector
