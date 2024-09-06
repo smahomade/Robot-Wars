@@ -1,4 +1,3 @@
-[Instructions](test.md)
 
 
 1. Download all the files in one folder
