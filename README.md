@@ -1,6 +1,6 @@
-##About:
+## About:
 
-##Instruction
+## Instruction
 
 1. Download all the files in one folder
 2. If you're using VS Code, make sure you compiled it by installing MSYS2 or MinGW and getting the extension C++/C
