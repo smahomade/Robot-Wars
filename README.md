@@ -8,6 +8,3 @@ Project was made in my 2nd year in City University using C++ Object Oriented Lan
 4. Make sure to run both files as one for example <br>
 /* cd "c:\Users\[Name]\Desktop\[Folder]\" ; if ($?) { g++ main.cpp robot.cpp -o main } ; if ($?) { .\main } */
 
-## 
-
-<b>UNDERGOING: Due to some bugs, this project will be reworked and will be developed in a new folder in the future<b>
